@@ -1,0 +1,3 @@
+In the Jordle Assignment, I wanted to add minimal extra features in attempts of staying authentic to the original
+World aesthetic game. As a result, for my extra credit, I simply added another window that opens when a user
+completes the Wordle, congratulating them on their success and directing them to restart the game and play again.
